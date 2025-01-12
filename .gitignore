@@ -1,0 +1,12 @@
+# Ignore system files and folders
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db
+AppData/
+Temp/
+Local Settings/
+Temporary Internet Files/
+
+# Ignore hidden files and folders
+.*
